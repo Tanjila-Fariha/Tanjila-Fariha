@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tanjila Fariha
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on research projects
+- 📫 How to reach me farihatanjila58@gmail.com
 
 <!---
 Tanjila-Fariha/Tanjila-Fariha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
